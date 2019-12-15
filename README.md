@@ -18,8 +18,8 @@ Learn everything you need to about the subject of this `eBook` project.
 ```
 Introduction
 Intro to Vue
-[ ] Introduction to Vue
-[ ] Vue First App
+[x] Introduction to Vue
+[x] Vue First App
 Tooling
 [ ] The Vue CLI
 [ ] DevTools
