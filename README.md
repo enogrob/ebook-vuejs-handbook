@@ -21,9 +21,9 @@ Intro to Vue
 [x] Introduction to Vue
 [x] Vue First App
 Tooling
-[ ] The Vue CLI
-[ ] DevTools
-[ ] Configuring VS Code for Vue Development
+[x] The Vue CLI
+[x] DevTools
+[x] Configuring VS Code for Vue Development
 Components
 [ ] Components
 [ ] Single File Components
