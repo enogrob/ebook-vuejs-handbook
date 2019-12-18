@@ -25,10 +25,10 @@ Tooling
 [x] DevTools
 [x] Configuring VS Code for Vue Development
 Components
-[ ] Components
-[ ] Single File Components
-[ ] Templates
-[ ] Styling components using CSS
+[x] Components
+[x] Single File Components
+[x] Templates
+[x] Styling components using CSS
 Components building blocks
 [ ] Directives
 [ ] Events
