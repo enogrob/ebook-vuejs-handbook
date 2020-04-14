@@ -21,14 +21,14 @@ Intro to Vue
 [x] Introduction to Vue
 [x] Vue First App
 Tooling
-[x] The Vue CLI
-[x] DevTools
-[x] Configuring VS Code for Vue Development
+[ ] The Vue CLI
+[ ] DevTools
+[ ] Configuring VS Code for Vue Development
 Components
-[x] Components
-[x] Single File Components
-[x] Templates
-[x] Styling components using CSS
+[ ] Components
+[ ] Single File Components
+[ ] Templates
+[ ] Styling components using CSS
 Components building blocks
 [ ] Directives
 [ ] Events
